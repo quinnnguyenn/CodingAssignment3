@@ -1,14 +1,16 @@
 body {
     background-image: url(../images/background.jpeg); 
-    font-family:'Lucida Sans';
+    font-family: 'Lucida Sans';
 }
 
 h1 {
     color: rgb(65, 40, 30);
+    font-family: 'Segoe UI';
 }
 
 h2 {
     color: rgb(75, 40, 30);
+    font-family: 'Franklin Gothic';
 }
 
 h3 {
