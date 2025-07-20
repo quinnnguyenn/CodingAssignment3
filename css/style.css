@@ -18,21 +18,21 @@ h4 {
     color: rgb(95, 40, 30);
 }
 p {
-    color: white;
+    color: grey;
 }
 a {
-    color: white;
+    color: grey;
 }
 figure
 img
 figcaption
 ul {
-    color: white;
+    color: grey;
 }
 li {
-    color: white;
+    color: grey;
 }
 ol {
-    color: white;
+    color: grey;
 }
 hr
