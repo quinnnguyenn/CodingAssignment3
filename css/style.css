@@ -18,21 +18,24 @@ h4 {
     color: rgb(95, 40, 30);
 }
 p {
-    color: grey;
+    color: rgb(92, 82, 82);
 }
 a {
-    color: grey;
+    color: rgb(92, 82, 82);
 }
 figure
 img
 figcaption
 ul {
-    color: grey;
+    color: rgb(92, 82, 82);
 }
 li {
-    color: grey;
+    color: rgb(92, 82, 82);
 }
 ol {
-    color: grey;
+    color: rgb(92, 82, 82);
 }
-hr
+hr {
+    color: white;
+}
+fieldset
