@@ -60,17 +60,9 @@ div {
 }
 
 .wrapper {
-
-  display: flex;
-
+    display: flex;
 }
 
 .wrapper div {
-
-  flex: 1;
-
+    flex: 1;
 }
-
-
-figure
-img
