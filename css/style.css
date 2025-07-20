@@ -17,12 +17,22 @@ h3 {
 h4 {
     color: rgb(95, 40, 30);
 }
-p
-a
+p {
+    color: white;
+}
+a {
+    color: white;
+}
 figure
 img
 figcaption
-ul
-li
-ol
+ul {
+    color: white;
+}
+li {
+    color: white;
+}
+ol {
+    color: white;
+}
 hr
