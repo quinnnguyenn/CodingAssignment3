@@ -17,25 +17,41 @@ h3 {
 h4 {
     color: rgb(95, 40, 30);
 }
+
 p {
     color: rgb(92, 82, 82);
 }
+
 a {
     color: rgb(92, 82, 82);
 }
+
 figure
 img
 figcaption
+
 ul {
     color: rgb(92, 82, 82);
 }
+
 li {
     color: rgb(92, 82, 82);
 }
+
 ol {
     color: rgb(92, 82, 82);
 }
+
 hr {
     color: white;
 }
-fieldset
+
+fieldset {
+    color: white;
+}
+
+div {
+
+/*  border: double cornflowerblue;*/
+
+}
