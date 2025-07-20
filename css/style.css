@@ -3,14 +3,20 @@ body {
 }
 
 h1 {
-    color: rgb(65, 30, 38);
+    color: rgb(65, 40, 30);
 }
 
 h2 {
-    color: rgb(65, 40, 38);
+    color: rgb(75, 40, 30);
 }
-h3
-h4
+
+h3 {
+    color: rgb(85, 40, 30);
+}
+
+h4 {
+    color: rgb(95, 40, 30);
+}
 p
 a
 figure
