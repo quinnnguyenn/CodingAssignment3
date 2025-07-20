@@ -5,7 +5,7 @@ body {
 
 h1 {
     color: rgb(65, 40, 30);
-    font-family: 'Segoe UI';
+    font-family: 'Franklin Gothic';
 }
 
 h2 {
@@ -15,10 +15,16 @@ h2 {
 
 h3 {
     color: rgb(85, 40, 30);
+    font-family: 'Franklin Gothic';
 }
 
 h4 {
     color: rgb(95, 40, 30);
+    font-family: 'Franklin Gothic';
+}
+
+figcaption {
+    color: rgb(92, 82, 82);
 }
 
 p {
@@ -50,8 +56,7 @@ fieldset {
 }
 
 div {
-
-
+    margin: 1px;
 }
 
 .wrapper {
@@ -69,4 +74,3 @@ div {
 
 figure
 img
-figcaption
