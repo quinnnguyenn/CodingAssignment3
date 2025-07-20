@@ -1,5 +1,5 @@
 body {
-    background-image: url(/images/background.jpeg); 
+    background-image: url(../images/background.jpeg); 
     font-family:'Lucida Sans';
 }
 
@@ -45,8 +45,6 @@ hr {
 
 fieldset {
     color: rgb(92, 82, 82);
-
-
 }
 
 div {
